@@ -1,0 +1,37 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#ingeniería  ",
+      "color": {
+        "a": 1,
+        "rgb": 9746863
+      }
+    },
+    {
+      "query": "tag:#sistemas  ",
+      "color": {
+        "a": 1,
+        "rgb": 9479555
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 0.73958904109589,
+  "lineSizeMultiplier": 0.862328767123288,
+  "collapse-forces": false,
+  "centerStrength": 0.662818003913894,
+  "repelStrength": 11.0019569471624,
+  "linkStrength": 1,
+  "linkDistance": 203,
+  "scale": 0.8374842566836542,
+  "close": false
+}
